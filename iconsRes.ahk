@@ -13,7 +13,6 @@ If (!sFile) {
     return
 }
 
-sFile := "AutoHotkey64.exe" ; change this as needed
 ii := icons(sFile)
 
 ;;;;;;;;;;;;;;;; Example #1
